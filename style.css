@@ -1,0 +1,16 @@
+body {
+background-image:url("background .png");
+}
+
+.gridH {
+  height: 25vh;
+}
+
+.mainH {
+  height: 75vh;
+}
+
+h1{
+  color:black;
+}
+
